@@ -21,6 +21,6 @@ A modern, clean and responsive **Weather App** built with **HTML, CSS, and JavaS
 - 🌍 Search weather by city name  
 - 🌡️ Shows temperature in Celsius  
 - 💧 Displays humidity and wind speed  
-- 📅 3-day weather forecast  
+- 📅 5-day weather forecast  
 - 💥 Elegant 404 error page if the city is not found  
 - 📱 Fully responsive and user-friendly design  
